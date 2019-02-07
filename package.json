@@ -20,26 +20,26 @@
   "homepage": "https://github.com/neopoly/switches",
   "devDependencies": {
     "babel-core": "^6.26.0",
-    "babel-loader": "^7.1.0",
+    "babel-loader": "^7.1.5",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
-    "chai": "^4.1.0",
+    "chai": "^4.2.0",
     "cheerio": "^1.0.0-rc.2",
     "css-loader": "^0.28.0",
-    "enzyme": "^3.3.0",
-    "enzyme-adapter-react-16": "^1.1.1",
+    "enzyme": "^3.8.0",
+    "enzyme-adapter-react-16": "^1.9.1",
     "file-loader": "^1.1.0",
     "mocha": "^5.2.0",
     "mocha-loader": "^1.1.0",
-    "node-sass": "^4.9.0",
-    "sass-loader": "^7.0.3",
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0",
     "style-loader": "^0.21.0",
-    "webpack": "^4.11.1",
-    "webpack-cli": "^3.0.3",
-    "webpack-dev-server": "^3.1.4"
+    "webpack": "^4.29.3",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.1.14"
   },
   "dependencies": {
-    "react": "^16.4.0",
-    "react-dom": "^16.4.0"
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1"
   }
 }
