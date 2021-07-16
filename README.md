@@ -144,7 +144,7 @@ Target design
 Environment
 -----------
 
-* [NodeJS](https://nodejs.org) (Version 10.x)
+* [NodeJS](https://nodejs.org) (Version 14.x)
 
 Setup
 -----
